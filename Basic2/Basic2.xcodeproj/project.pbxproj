@@ -14,7 +14,7 @@
 		969C3B97205F86D500EBF965 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 969C3B96205F86D500EBF965 /* main.m */; };
 		969C3BA1205F89E400EBF965 /* KCContactGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 969C3B9D205F89E300EBF965 /* KCContactGroup.m */; };
 		969C3BA2205F89E400EBF965 /* KCContact.m in Sources */ = {isa = PBXBuildFile; fileRef = 969C3B9E205F89E300EBF965 /* KCContact.m */; };
-		969C3BA5205F8A1500EBF965 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 969C3BA3205F8A1500EBF965 /* ViewController.m */; };
+		969C3BA7205F8F9500EBF965 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 969C3BA6205F8F9500EBF965 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		969C3B9E205F89E300EBF965 /* KCContact.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KCContact.m; sourceTree = "<group>"; };
 		969C3B9F205F89E300EBF965 /* KCContactGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KCContactGroup.h; sourceTree = "<group>"; };
 		969C3BA0205F89E400EBF965 /* KCContact.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KCContact.h; sourceTree = "<group>"; };
-		969C3BA3205F8A1500EBF965 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = ../../../ViewController.m; sourceTree = "<group>"; };
+		969C3BA6205F8F9500EBF965 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +67,7 @@
 				969C3B87205F86D500EBF965 /* AppDelegate.h */,
 				969C3B88205F86D500EBF965 /* AppDelegate.m */,
 				969C3B8A205F86D500EBF965 /* ViewController.h */,
-				969C3BA3205F8A1500EBF965 /* ViewController.m */,
+				969C3BA6205F8F9500EBF965 /* ViewController.m */,
 				969C3BA0205F89E400EBF965 /* KCContact.h */,
 				969C3B9E205F89E300EBF965 /* KCContact.m */,
 				969C3B9F205F89E300EBF965 /* KCContactGroup.h */,
@@ -152,7 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				969C3BA5205F8A1500EBF965 /* ViewController.m in Sources */,
+				969C3BA7205F8F9500EBF965 /* ViewController.m in Sources */,
 				969C3BA2205F89E400EBF965 /* KCContact.m in Sources */,
 				969C3B97205F86D500EBF965 /* main.m in Sources */,
 				969C3BA1205F89E400EBF965 /* KCContactGroup.m in Sources */,
